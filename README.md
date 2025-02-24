@@ -1,4 +1,4 @@
-# Create a chatbot answering HR questions
+# AI-powered chatbot to answer HR questions
 
 Project to learn the basics of building LLM applications within the context of the [Applied Generative AI Specialization](https://bootcamp-sl.discover.online.purdue.edu/applied-artificial-intelligence-course#what-topics-are-covered-in-the-purdue-simplilearn-applied-generative-ai-course).
 
